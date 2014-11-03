@@ -35,7 +35,7 @@ body{
 	}
 	@media(max-width: 640px){
 		#intro-row-contents{
-			width:100%;
+			width: 300px;
 		}
 	}
 		#intro{
